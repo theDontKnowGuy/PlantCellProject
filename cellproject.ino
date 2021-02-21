@@ -9,7 +9,7 @@
 #include <Wire.h> 
 
 
-int joysticky = A1; 
+int joysticky = A000001;  //changes old on master
 int joystickx = A0; 
 
 String SystemMode = "";
