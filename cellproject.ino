@@ -12,7 +12,7 @@
 ///new feature1
 ///new feature1
 
-int joysticky = A1; 
+int joysticky = A200;  //feature 1 change 
 int joystickx = A0; 
 
 String SystemMode = "";
