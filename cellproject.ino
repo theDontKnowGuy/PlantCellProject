@@ -1,11 +1,14 @@
 //Aviv Gideoni's Plant Cell Game Project
+//For Edith Baker school
 
-#include <Wire.h> 
+
 #include <LiquidCrystal_I2C.h>
 #include <Timer.h>
+#include <Wire.h> 
 
-int joystickx = A0; 
+
 int joysticky = A1; 
+int joystickx = A0; 
 
 String SystemMode = "";
 
